@@ -13,9 +13,9 @@
 <table>
 <tr>
 <th> id </th>
-<th> x_axis </th>
-<th> y_axis </th>
-<th> z_axis</th>
+<th> x_axis_acce </th>
+<th> y_axis_acce </th>
+<th> z_axis_acce </th>
 <th> Heart Rate</th>
 <th> Temperature</th>
 <th> Humidity</th>
